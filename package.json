@@ -1,7 +1,7 @@
 {
-  "name": "boiler-conf",
+  "name": "pnensba-conf",
   "version": "0.0.0",
-  "description": "boiler configuration",
+  "description": "pnensba configuration",
   "main": "index.js",
   "bin": {
     "boilerconf": "./bin/get.js"
